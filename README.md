@@ -1,4 +1,4 @@
-# Bias Analysis for Opioid Studies
+# Confounding in Opioid Safety Studies
 
 ## What we are studying
 In the field of opioids research we often want to be able to draw firm conclusions about what causes overdoses. We use data sources from electronic health records, insurance claims, vital statistics, and elsewhere to answer fundamental questions about the safety of medications. But we know that these data sources are imperfect, and that not everything is documented in them with certainty.
